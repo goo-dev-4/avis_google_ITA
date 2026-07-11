@@ -1,6 +1,6 @@
 User-agent: *
 Allow: /
-Disallow: /merci.html
+Disallow: /grazie.html
 
 # Sitemap
 Sitemap: https://acquistare-recensioni.com/sitemap.xml
